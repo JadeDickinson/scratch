@@ -1,6 +1,6 @@
 # scratch
 
-A Clojure library designed to ... well, that part is up to you.
+Following through Kyle Kingsbury's Clojure from the ground up tutorial from aphyr.com
 
 ## Usage
 
